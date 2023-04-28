@@ -1,8 +1,17 @@
 Siza Adhikari 
+----
 This is assignment 1.
+----
+April 28, 2023 
+----
+
+
 
 
 Question and Answer 
+----
+
+
 
 a. Can we have a global .gitignore file?
 
