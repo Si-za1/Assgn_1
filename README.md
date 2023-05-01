@@ -88,6 +88,23 @@ f. Difference between revert and reset.
 
     But, if I want to undo a commit that has already been pushed to a remote repository and has been shared with others I will be using the git revert, since it will be making it seem like I had never pushed such commits to the repo.
 
+-------
+May 01, 2023 
+-----
+
+a. Write the difference between fetch and pull command.
+-----
+    The difference between fetch and pull command is if I want to know what the changes are in the local and remote repo to be seen but without
+    any merging of the local data, I will be using the fetch command, but,
+    if I want to know what the changes are in the particular code, branch and the repo I will be using the Pull command since it will automatically fetch and merge the remote changes. 
+----
+
+b. How to handle merge conflicts?
+----
+    There are few ways to merge the conflicts:
+        1. Either one can manually solve the conflict.
+        2. The other one would be opening the pull request in the Github. 
+----
 
 
 
